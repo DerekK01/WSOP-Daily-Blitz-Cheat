@@ -26,7 +26,7 @@ This project uses the openCV template matching to identify the playing card on t
 * Set your monitor resolution to 1920x1080
 * Set your BlueStack Display to landscape and 1600x900
 * Launch WSOP and full screen the application (Example in test case folder)
-* Open this repository in Visual Studio Code
+* Open this repository in Visual Studio Code (open folder in VS code)
 * Run wsopAutoV3.py in Visual Studio Code
 * A "START" message should appear in the terminal
 * Start the Daily Blitz
