@@ -4,7 +4,7 @@ DISCLAIMER: This project is only for educational purpose. Use at your own risk.
 
 ## Description
 
-This project uses the openCV template matching to identify the playing card on the screen and compare the poker hand. Which can then automatically press the winning hand and get jackpot everytime on WSOP Daily Blitz. It will require a minimum of 30 second to reach jackpot (3 days consecutive login)
+This project uses the openCV template matching to identify the playing card on the screen and compare the poker hand. Which can then automatically press the winning hand and get jackpot everytime on WSOP Daily Blitz. It will require a minimum of 24 second to reach jackpot (4 days consecutive login)
 
 
 
@@ -32,6 +32,8 @@ This project uses the openCV template matching to identify the playing card on t
 * Start the Daily Blitz
 * Enjoy!
 
+### Example
+https://youtu.be/9WXoO-fvYdM
 
 
 ## Version History
